@@ -8,5 +8,3 @@ function convert_to_binary(num) {
     }
     return result.split("").reverse().join("");
 }
-
-console.log(convert_to_binary(74));
